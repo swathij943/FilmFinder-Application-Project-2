@@ -1,0 +1,6 @@
+.search-page {
+    background: var(--off-white);
+    min-height: 100vh;
+    /* background-repeat: no-repeat; */
+    /* overflow: hidden; */
+}

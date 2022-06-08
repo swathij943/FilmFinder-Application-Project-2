@@ -1,0 +1,220 @@
+2022-05-26 09:37:03 INFO  LoggingUtil:26 - User: jtsuch registered successfully
+2022-05-26 09:38:58 INFO  LoggingUtil:26 - User: jdoe registered successfully
+2022-05-26 09:40:47 INFO  LoggingUtil:26 - User: dvader registered successfully
+2022-05-26 09:42:17 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-26 10:08:13 INFO  LoggingUtil:47 - User: dvader updated successfully
+2022-05-26 12:27:57 INFO  LoggingUtil:26 - User: mohamed65 registered successfully
+2022-05-27 13:26:34 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:27:08 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:27:28 ERROR LoggingUtil:33 - User with username: klgsdj was not found in the database
+2022-05-27 13:34:08 ERROR LoggingUtil:33 - User with username: gdf was not found in the database
+2022-05-27 13:34:22 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:34:47 ERROR LoggingUtil:33 - User with username: gdf was not found in the database
+2022-05-27 13:34:57 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:35:36 ERROR LoggingUtil:33 - User with username: gdf was not found in the database
+2022-05-27 13:36:11 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:36:23 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:37:02 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:39:07 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:42:13 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:42:56 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:42:57 ERROR LoggingUtil:33 - User with username:  was not found in the database
+2022-05-27 13:44:32 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:44:54 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:47:18 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:48:58 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:57:59 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 13:59:32 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:00:52 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:01:34 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:02:05 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:10:52 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:11:09 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 14:13:02 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 15:15:31 ERROR LoggingUtil:33 - User with username: gedf was not found in the database
+2022-05-27 15:15:52 ERROR LoggingUtil:33 - User with username: jtsuch was not found in the database
+2022-05-27 15:15:55 ERROR LoggingUtil:33 - User with username: jtsuch was not found in the database
+2022-05-27 15:15:57 ERROR LoggingUtil:33 - User with username: jtsuch was not found in the database
+2022-05-27 15:15:57 ERROR LoggingUtil:33 - User with username: jtsuch was not found in the database
+2022-05-27 15:17:06 INFO  LoggingUtil:26 - User: jtsuch registered successfully
+2022-05-27 15:17:13 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-27 15:17:30 ERROR LoggingUtil:33 - User with username: kjgdfl was not found in the database
+2022-05-27 15:21:22 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-31 08:26:47 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-31 08:29:11 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-05-31 08:55:25 INFO  LoggingUtil:26 - User: mabdulla registered successfully
+2022-05-31 08:55:38 ERROR LoggingUtil:33 - User with username: gdfkj was not found in the database
+2022-05-31 08:55:39 ERROR LoggingUtil:33 - User with username: gdfkj was not found in the database
+2022-05-31 08:55:40 ERROR LoggingUtil:33 - User with username: gdfkj was not found in the database
+2022-05-31 08:55:41 ERROR LoggingUtil:33 - User with username: gdfkj was not found in the database
+2022-05-31 08:55:50 INFO  LoggingUtil:36 - User: mabdulla signed in successfully
+2022-05-31 09:00:11 INFO  LoggingUtil:26 - User: gstan registered successfully
+2022-05-31 09:02:59 INFO  LoggingUtil:26 - User: mjoe registered successfully
+2022-05-31 14:13:30 INFO  LoggingUtil:36 - Comment probably created: Review{reviewId=0, rating=3, content='I saw this movie!', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=null}
+2022-06-01 08:30:16 INFO  LoggingUtil:26 - User:  registered successfully
+2022-06-01 08:30:20 INFO  LoggingUtil:26 - User:  registered successfully
+2022-06-01 11:31:10 INFO  LoggingUtil:43 - Comment probably created: Review{reviewId=0, rating=5, content='I saw this movie!', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 11:34:21 INFO  LoggingUtil:43 - Comment probably created: Review{reviewId=0, rating=1, content='This movie was way too long', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 11:35:04 INFO  LoggingUtil:43 - Comment probably created: Review{reviewId=0, rating=1, content='I eat popcorn', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 11:45:24 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 11:45:42 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=3, content='Frontend success?', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 11:48:51 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 11:49:00 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=5, content='He run', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=7, description='Forrest Gump is a simple man with a low I.Q. but good intentions.', image='https://imdb-api.com/images/original/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6751_AL_.jpg', title='Forest Gump', year=1994, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-01 11:53:15 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='Its in outerspace', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=5, description='About outerspace', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}}
+2022-06-01 12:02:21 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=2, content='Luke dies in the end', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=5, description='About outerspace', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}}
+2022-06-01 12:12:26 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 12:12:35 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='Never seen it', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=8, description='Three professional gunslingers the Good, the Bad, and the Ugly must all battle it out to get their hands on $200,000.00 worth of gold.', image='https://imdb-api.com/images/original/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='The Good, the Bad and the Ugly', year=1966, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 12:12:38 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='Never seen it', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=8, description='Three professional gunslingers the Good, the Bad, and the Ugly must all battle it out to get their hands on $200,000.00 worth of gold.', image='https://imdb-api.com/images/original/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='The Good, the Bad and the Ugly', year=1966, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 12:17:10 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=3, content='Good fight scenes', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=9, description='A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state.', image='https://imdb-api.com/images/original/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='Fight Club', year=1999, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-01 12:18:08 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=2, content='Plays piano', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=10, description='In this adaptation of the autobiography "The Pianist: The Extraordinary True Story of One Mans Survival in Warsaw, 1939-1945', image='https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6751_AL_.jpg', title='The Pianist', year=2002, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-01 12:19:32 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='music', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=10, description='In this adaptation of the autobiography "The Pianist: The Extraordinary True Story of One Mans Survival in Warsaw, 1939-1945', image='https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6751_AL_.jpg', title='The Pianist', year=2002, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-01 12:19:54 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='music', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=10, description='In this adaptation of the autobiography "The Pianist: The Extraordinary True Story of One Mans Survival in Warsaw, 1939-1945', image='https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6751_AL_.jpg', title='The Pianist', year=2002, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-01 12:21:23 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 12:51:59 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 12:52:59 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=3, content='Very long movie', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 13:01:44 INFO  LoggingUtil:36 - User: jtsuch signed in successfully
+2022-06-01 13:01:52 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='space', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=5, description='About outerspace', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}}
+2022-06-01 13:02:29 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=5, content='This is a test', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=5, description='About outerspace', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}}
+2022-06-01 13:02:49 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='This is another test', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=8, description='Three professional gunslingers the Good, the Bad, and the Ugly must all battle it out to get their hands on $200,000.00 worth of gold.', image='https://imdb-api.com/images/original/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='The Good, the Bad and the Ugly', year=1966, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-01 13:04:45 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='Was shiny', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=11, description='Haunted by a persistent writers block, the aspiring author and recovering alcoholic, Jack Torrance, drags his wife, Wendy, and his gifted son, Danny, up snow-capped Colorados secluded Overlook Hotel after taking up a job as an off-season caretaker.', image='https://imdb-api.com/images/original/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6751_AL_.jpg', title='The Shining', year=1980, genre=Genre{genreId=3, genreName='Horror'}}}
+2022-06-01 14:45:30 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:05:45 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:08:02 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:08:53 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:12:14 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:12:58 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:13:16 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:19:22 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:21:07 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:23:07 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:27:28 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:28:56 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:31:05 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:35:18 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-01 15:36:05 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 09:15:34 ERROR LoggingUtil:33 - User with username:  was not found in the database
+2022-06-02 09:15:34 ERROR LoggingUtil:33 - User with username:  was not found in the database
+2022-06-02 09:15:34 ERROR LoggingUtil:33 - User with username:  was not found in the database
+2022-06-02 09:15:35 ERROR LoggingUtil:33 - User with username:  was not found in the database
+2022-06-02 12:06:44 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:10:45 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:10:47 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:27:36 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:30:59 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:39:11 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 12:39:19 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=3, content='good movie', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=6, description='About a bat', image='https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg', title='The Batman', year=2022, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-02 12:52:42 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:30:57 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:31:24 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=5, content='Storm trooper!', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=5, description='About outerspace', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}}
+2022-06-02 13:34:08 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:34:19 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=3, content='He plays football', reviewer=User{userId=1, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password'}, movieRated=Movie{movieId=7, description='Forrest Gump is a simple man with a low I.Q. but good intentions.', image='https://imdb-api.com/images/original/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6751_AL_.jpg', title='Forest Gump', year=1994, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-02 13:35:43 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:37:57 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:45:07 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 13:47:33 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 14:22:52 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 14:59:34 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-02 15:00:01 INFO  LoggingUtil:53 - User: jtsu updated successfully
+2022-06-02 15:00:11 ERROR LoggingUtil:39 - User with username: jtsuch was not found in the database
+2022-06-02 15:00:12 ERROR LoggingUtil:39 - User with username: jtsuch was not found in the database
+2022-06-02 15:00:15 ERROR LoggingUtil:39 - User with username: jtsu was not found in the database
+2022-06-02 15:00:17 ERROR LoggingUtil:39 - User with username: jtsu was not found in the database
+2022-06-02 15:02:06 INFO  LoggingUtil:42 - User: jtsu signed in successfully
+2022-06-02 15:06:25 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-02 15:08:16 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:33:27 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:33:54 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:34:14 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:37:28 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:37:35 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:56:23 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:56:33 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:56:41 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 07:57:36 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:57:39 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:58:23 INFO  LoggingUtil:53 - User: jtsuch updated successfully
+2022-06-03 07:58:49 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='I think they shoot guns in this movie', reviewer=User{userId=3, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@mail.com', password='password'}, movieRated=Movie{movieId=2, description='Three professional gunslingers the Good, the Bad, and the Ugly must all battle it out to get their hands on $200,000.00 worth of gold.', image='https://imdb-api.com/images/original/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='The Good, the Bad and the Ugly', year=1966, genre=Genre{genreId=1, genreName='Action'}}}
+2022-06-03 08:03:37 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 08:43:43 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 08:46:49 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 08:53:23 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 08:53:51 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 09:02:46 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 09:07:14 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 09:07:14 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 09:07:16 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 09:14:02 INFO  LoggingUtil:53 - User: Newjdoe updated successfully
+2022-06-03 11:16:53 INFO  LoggingUtil:53 - User: Newjdoe updated successfully
+2022-06-03 11:21:30 INFO  LoggingUtil:53 - User: Newjdoe updated successfully
+2022-06-03 11:34:04 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 11:34:04 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 11:34:07 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 11:34:07 INFO  LoggingUtil:53 - User: Newjdoe updated successfully
+2022-06-03 12:56:18 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 12:56:18 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 12:56:21 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 12:56:21 INFO  LoggingUtil:52 - User: Newjdoe updated successfully
+2022-06-03 12:57:12 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 12:57:13 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 12:57:14 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 12:57:15 INFO  LoggingUtil:52 - User: Newjdoe updated successfully
+2022-06-03 13:02:07 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:03:00 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:03:33 INFO  LoggingUtil:52 - User: Newjdoe updated successfully
+2022-06-03 13:06:12 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:06:22 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:10:38 INFO  LoggingUtil:52 - User: Newjdoe updated successfully
+2022-06-03 13:18:33 INFO  LoggingUtil:52 - User: Newjdoe updated successfully
+2022-06-03 13:22:30 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 13:22:30 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 13:22:33 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 13:22:33 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:23:18 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 13:23:19 INFO  LoggingUtil:32 - User: jdoe registered successfully
+2022-06-03 13:23:21 INFO  LoggingUtil:42 - User: jdoe signed in successfully
+2022-06-03 13:23:21 INFO  LoggingUtil:49 - User: Newjdoe updated successfully
+2022-06-03 13:23:21 ERROR LoggingUtil:39 - User with username: FakePerson was not found in the database
+2022-06-03 13:58:41 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 13:59:14 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 13:59:27 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 13:59:36 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=5, content='Twas good', reviewer=User{userId=3, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password', reviews=[], favorites=[Movie{movieId=4, description='In this adaptation of the autobiography "The Pianist: The Extraordinary True Story of One Mans Survival in Warsaw.', image='https://imdb-api.com/images/original/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6751_AL_.jpg', title='The Pianist', year=2002, genre=Genre{genreId=5, genreName='Drama'}}]}, movieRated=Movie{movieId=1, description='An Alabama man with an IQ of 75 desires to be reunited with his childhood sweetheart.', image='https://imdb-api.com/images/original/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6751_AL_.jpg', title='Forest Gump', year=1994, genre=Genre{genreId=5, genreName='Drama'}}}
+2022-06-03 14:00:03 INFO  LoggingUtil:49 - User: jtusch updated successfully
+2022-06-03 14:00:11 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:00:34 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:03:10 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:07:04 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:07:17 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:07:43 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:07:57 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:09:24 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:09:31 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:13:29 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:13:37 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:15:08 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:15:21 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:15:31 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:16:56 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:20:36 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:20:51 INFO  LoggingUtil:50 - User: jtsuch updated successfully
+2022-06-03 14:24:35 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:24:43 INFO  LoggingUtil:50 - User: jtsuch updated successfully
+2022-06-03 14:25:24 INFO  LoggingUtil:50 - User: jtsuch updated successfully
+2022-06-03 14:25:36 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=5, content='Funny!', reviewer=User{userId=3, firstName='Justin', lastName='Tsuchiyama', username='jtsuch', email='justin235@revature.net', password='password', reviews=[], favorites=[Movie{movieId=5, description='Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire.', image='https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg', title='Star Wars', year=1977, genre=Genre{genreId=7, genreName='Sci-Fi'}}, Movie{movieId=3, description='A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state.', image='https://imdb-api.com/images/original/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6751_AL_.jpg', title='Fight Club', year=1999, genre=Genre{genreId=5, genreName='Drama'}}]}, movieRated=Movie{movieId=12, description='Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.', image='https://s2.mzstatic.com/us/r30/Video/v4/94/02/e5/9402e582-36c6-be47-9fe2-13d5b6bbac9e/SUPERBAD_2007_TH_MLF1-WW-artwork.jpg', title='Superbad', year=2007, genre=Genre{genreId=2, genreName='Comedy'}}}
+2022-06-03 14:27:22 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:28:52 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:30:05 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:34:28 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:38:09 INFO  LoggingUtil:32 - User: dshroot registered successfully
+2022-06-03 14:39:21 INFO  LoggingUtil:32 - User: mabdulla registered successfully
+2022-06-03 14:40:14 INFO  LoggingUtil:37 - Comment probably created: Review{reviewId=0, rating=4, content='Excellent', reviewer=User{userId=5, firstName='Mohamed', lastName='Abdulla', username='mabdulla', email='mohamed468@revature.net', password='password', favorites=[Movie{movieId=9, description='Ethan Hunt (Tom Cruise) and the entire IMF agency are disavowed by the government, while the president initiates the Ghost Protocol.', image='https://michaelgiacchino.com/wp-content/uploads/2012/01/missionimpossible4.jpg', title='Mission: Impossible Ghost Protocol', year=2011, genre=Genre{genreId=1, genreName='Action'}}]}, movieRated=Movie{movieId=23, description='Perseus braves the treacherous underworld to rescue his father, Zeus, captured by his son, Ares, and brother Hades who unleash the ancient Titans upon the world.', image='https://media.movieassets.com/static/images/items/movies/posters/84a043821b9fedd698870b72554ff965.jpg', title='Wrath of the Titans', year=2012, genre=Genre{genreId=6, genreName='Fantasy'}}}
+2022-06-03 14:40:34 INFO  LoggingUtil:49 - User: mabdulla updated successfully
+2022-06-03 14:41:38 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-03 14:42:00 INFO  LoggingUtil:49 - User: jtsuch updated successfully
+2022-06-03 14:55:40 INFO  LoggingUtil:42 - User: jtsuch signed in successfully
+2022-06-05 16:10:55 ERROR LoggingUtil:39 - User with username: swathi was not found in the database
+2022-06-05 16:11:10 ERROR LoggingUtil:39 - User with username: swathi was not found in the database
+2022-06-05 17:56:25 ERROR LoggingUtil:39 - User with username: swathi was not found in the database
+2022-06-05 17:57:06 INFO  LoggingUtil:32 - User: swathi registered successfully
+2022-06-05 17:57:18 INFO  LoggingUtil:49 - User: swathi updated successfully
+2022-06-05 18:26:37 INFO  LoggingUtil:42 - User: swathi signed in successfully
+2022-06-06 09:40:26 INFO  LoggingUtil:42 - User: swathi signed in successfully

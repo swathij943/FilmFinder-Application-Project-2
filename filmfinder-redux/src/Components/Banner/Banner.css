@@ -1,0 +1,86 @@
+.banner {
+  background-size: cover;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Black_flag.svg/1200px-Black_flag.svg.png");
+  background-position: center center;
+  height: 100vh;
+  position: relative;
+  color: white;
+  object-fit: contain;
+}
+
+.banner-contents {
+  margin-left: 30px;
+  padding-top: 140px;
+  height: 190px;
+  display: flex;
+  backdrop-filter: blur(5px);
+}
+
+.banner-title {
+  font-size: 3rem;
+  font-weight: 800;
+  padding-bottom: 0.3rem;
+}
+
+.banner-description {
+  width: 45rem;
+  line-height: 1.3;
+  padding-top: 1rem;
+  font-size: 0.8rem;
+  max-width: 360px;
+  height: 80px;
+}
+
+.banner-fadebottom {
+  height: 7.4rem;
+  background-image: linear-gradient(
+    180deg,
+    transparent,
+    rgba(37, 37, 37, 0.61),
+    #111
+  );
+}
+
+.banner-button {
+  cursor: pointer;
+  color: var(--off-white);
+  outline: none;
+  border: none;
+  font-weight: 700;
+  border-radius: 0.2vw;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  background-color: rgba(51, 51, 51, 0.5);
+  padding-bottom: 0.5rem;
+}
+
+.banner-button:hover {
+  color: var(--dark);
+  background-color: var(--off-white);
+  transition: all 0.4s;
+}
+
+.movie-page-img {
+  height: 400px;
+  max-width: 350px;
+  margin-right: 50px;
+}
+
+.year-genre-rating {
+  display: flex;
+}
+
+.year-genre-rating h4 {
+  margin-right: 20px;
+}
+
+.movie-description {
+  inline-size: 400px;
+}
+
+.movie-description p {
+  font-weight: 170;
+}
